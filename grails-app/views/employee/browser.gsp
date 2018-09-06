@@ -28,8 +28,8 @@
         <div id="employee-browser" class="content" role="main">
 			<h1>Employee Browser</h1>
 			<table id="employee_dt" class="display compact" style="width:99%;">
-				<thead><tr><th>Surname</th><th>Given name(s)</th><th>Position</th><th>Office</th><th>Extension</th><th>Hired</th><th>Salary</tr></thead>
-				<tfoot><tr><th>Surname</th><th>Given name(s)</th><th>Position</th><th>Office</th><th>Extension</th><th>Hired</th><th>Salary</tr></tfoot>
+				<thead><tr><th>Surname</th><th>Given name(s)</th><th>Position</th><th>Office</th><th>Extension</th><th>Hired</th><th>Salary</th></tr></thead>
+				<tfoot><tr><th>Surname</th><th>Given name(s)</th><th>Position</th><th>Office</th><th>Extension</th><th>Hired</th><th>Salary</th></tr></tfoot>
 			</table>
 		</div>
 		<g:javascript>
