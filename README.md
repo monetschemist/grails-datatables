@@ -6,7 +6,7 @@ The DataTables plugin for jQuery is so cool!!! But all the documentation gives P
 
 Get this repository.  Install the latest Java 8 (might work with newer Javas, not tested as of 2018/08/05).  Install the current SDKMAN, available at https://sdkman.io.  Use SDKMAN to install the latest Groovy and Grails.  You're good to go!
 
-More documentation and explanation will be available before the end of 2018 on http://www.opensource.com
+More documentation and explanation will be available before the end of 2018 on [https://www.opensource.com](https://opensource.com/article/18/9/using-grails-jquery-and-datatables)
 
 ### Prerequisites
 
